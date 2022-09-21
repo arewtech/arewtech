@@ -7,7 +7,7 @@ Front End Developer
 trying to create something out of nothing :)
 
 * 🌍  I'm based in Probolinggo
-* 🖥️  See my portfolio at [mamanbbc.com](http://github.com/JfeStudio/portfolio-bbc)
+* 🖥️  See my portfolio at [mamanbbc.com](https://mamanbbc.vercel.app/)
 * ✉️  You can contact me at [abdur.rohman@citiasiainc.id](mailto:abdur.rohman@citiasiainc.id)
 * 🚀  I'm currently working on [Citiasia.inc](http://https://citiasiainc.id/)
 * 🧠  I'm learning Laravel
