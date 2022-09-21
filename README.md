@@ -41,7 +41,3 @@ trying to create something out of nothing :)
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/JfeStudio/iotm-mentor-demo" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=JfeStudio&repo=iotm-mentor-demo&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/JfeStudio/tootravel" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=JfeStudio&repo=tootravel&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/JfeStudio/ecommerce-jfeStore" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=JfeStudio&repo=ecommerce-jfeStore&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/JfeStudio/portfolio-bbc" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=JfeStudio&repo=portfolio-bbc&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en" /></a></div>
