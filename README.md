@@ -1,4 +1,4 @@
-<img src="[https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif](https://user-images.githubusercontent.com/75215687/210893599-4ba681c5-4676-4f51-8006-ae7ff96809b2.gif)" alt="stfu" width="70%"/>
+<img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif](https://user-images.githubusercontent.com/75215687/210893599-4ba681c5-4676-4f51-8006-ae7ff96809b2.gif" alt="stfu" width="70%"/>
 
 trying to create something out of nothing :)
 
