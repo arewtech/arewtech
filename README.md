@@ -1,4 +1,4 @@
-<img src="https://i.gifer.com/ByF8.gif" alt="stfu" width="50%"/>
+<img src="https://media.giphy.com/media/1zJF8P0WcSz6RQ7OD3/giphy.gif" alt="stfu" width="50%"/>
 
 trying to create something out of nothing :)
 
