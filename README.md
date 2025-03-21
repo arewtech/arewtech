@@ -1,10 +1,5 @@
-<img src="https://media.giphy.com/media/1zJF8P0WcSz6RQ7OD3/giphy.gif" alt="stfu" width="50%"/>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExem1ncmYxOWJ2aWVzbDM5YmduY25mMnIwcGRwbzk3a2NzdnNpaW5vYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xYMTfc3UFuqKTS0NP0/giphy.gif" alt="anime chill" width="50%"/>
 
-trying to create something out of nothing :)
-
-* 👋  Hi I’m @arewtech 👨🏻‍💻🦖🧑🏻‍🦱
-* 🌱  I’m currently learning the TALL Stack (Tailwind CSS, Alpine.js, Laravel, Livewire)
-<!-- * 🖥️  See my portfolio at [maman.me](https://arew.vercel.app/) 
-📫  You can contact me at [rohman.banana27@gmail.com](mailto:rohman.banana27@gmail.com) -->
-
-
+🌿 Crafting the web with code & passion.  
+💻 Web Developer | TALL Stack Enthusiast  
+✨ Bringing ideas to life, one pixel at a time.  
